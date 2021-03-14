@@ -4,7 +4,7 @@
 This project is my first portfolio i ever created, my motivation was to create a nicely designed web page that included some cool animations using css to the best of my knowledge.The reason i built the project was to hopefully later on use this to get a job. its always good when you have a nice design to show off all your work.I used semantic elements and complex css to complete this project. From this specific project i learned how to properly use complex css properties and to comprehend how to style a web page.
 
 ## Installation
- you can clone code from repository in github link and bring it down to your local drive. From thier you can use visual studio code as your ide or any other is fine.
+ you can clone code from repository in github link and bring it down to your local drive. From thier you can use visual studio code as your ide or any other is fine.<img src="">
 ## Usage
  clone the repo from https://github.com/johnbatista1223/portfolio-for-first-job- you can use visual studio code as ide then open in google chrome or any browser.
 
