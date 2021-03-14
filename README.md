@@ -5,7 +5,8 @@ This project is my first portfolio i ever created, my motivation was to create a
 
 ## Installation
  you can clone code from repository in github link and bring it down to your local drive. From thier you can use visual studio code as your ide or any other is fine.
- <img src="johnbatista1223/portfolio-for-first-job-100/" width=300>
+ 
+ <img src="Screen Shot 2021-03-13 at 8.24.07 PM.png">
 
 ## Usage
  clone the repo from https://github.com/johnbatista1223/portfolio-for-first-job- you can use visual studio code as ide then open in google chrome or any browser.
